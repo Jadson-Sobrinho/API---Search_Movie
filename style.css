@@ -1,0 +1,45 @@
+body{
+    background-color: #13095e;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+#inicio h1{
+    margin-left: 40%;
+}
+#inicio form{
+    margin-left: 43%;
+
+}
+
+.container{
+    background-color: white;
+    padding: 40px;
+    margin-top: 10px;
+    border-radius: 10px;
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.divfilme{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+
+}
+
+.divimagem{
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+}
+
+.divconteudo{
+    width: 65%;
+}
+
+.imagem{
+    width: 100%;
+}
+
